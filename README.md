@@ -7,4 +7,4 @@ narrative clip hacks
 2. so find the last file name in day 1 and rename day 2 and day 3
 3. e.g. if the last file name on march 25 is: 000999.jpg then 
 
-        cd day 2; ./rename-starting-with-py 1000  (no need for leading zeros, the script will handle them)
+        cd day march26; ./rename-starting-with-py 1000  (no need for leading zeros, reanme-starting-with-py will add leading zeroes to the filename to maintain sort order)
