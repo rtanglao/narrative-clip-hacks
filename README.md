@@ -10,3 +10,4 @@ narrative-clip-hacks
         cd day march26; ./rename-starting-with-py 1000  #(no need for leading zeros, reanme-starting-with-py will add leading zeroes to the filename to maintain sort order)
 
 5. then symbolically link these files into day 1 and then make your timelapse!
+6. code to sort files copied (thanks) from: http://stackoverflow.com/questions/12093940/reading-files-in-a-particular-order-in-python
